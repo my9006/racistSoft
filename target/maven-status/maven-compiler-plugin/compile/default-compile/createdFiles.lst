@@ -1,0 +1,9 @@
+com/company/vendingMachine/WrongFormattException.class
+com/company/products/Product.class
+com/company/Main.class
+com/company/vendingMachine/VMMatrixBuilder.class
+com/company/products/drinks/Drinks.class
+com/company/vendingMachine/VMVendor.class
+com/company/products/chipses/Chipses.class
+com/company/products/snacks/Snacks.class
+com/company/vendingMachine/VMInterface.class
